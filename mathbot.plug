@@ -1,0 +1,10 @@
+[Core]
+Name = MathBot
+Module = mathbot
+
+[Documentation]
+Description = Simple four operation rubes bot!
+
+[Python]
+Version = 2+
+
